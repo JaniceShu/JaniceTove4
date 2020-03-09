@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "WINDOWS-1252",
     "folds" : "",
-    "hash" : "3569360466",
+    "hash" : "0",
     "id" : "51A5B1F1",
-    "lastKnownWriteTime" : 1566306875,
-    "last_content_update" : 1566306875,
+    "lastKnownWriteTime" : 1583765134,
+    "last_content_update" : 1583765134955,
     "path" : "Q:/SKDE/Analyse/Brukere/Janice/JaniceTove4/protese/server.R",
     "project_path" : "protese/server.R",
     "properties" : {
+        "cursorPosition" : "16,49",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
